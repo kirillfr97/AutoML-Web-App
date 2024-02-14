@@ -18,3 +18,4 @@ mongocryptd.pid
 .nova/
 venv/
 .vscode/
+logs.log
